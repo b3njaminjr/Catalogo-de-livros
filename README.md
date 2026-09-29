@@ -1,4 +1,4 @@
-#📚 Sistema de Ordenação de Catálogo de Livros
+# 📚 Sistema de Ordenação de Catálogo de Livros
 
 Repositório destinado ao desenvolvimento da atividade prática da disciplina (Estrutura de Dados e Algoritmos), cujo objetivo é implementar um sistema completo de gerenciamento e ordenação de um catálogo de livros integrando um backend em linguagem C a uma interface gráfica.
 
