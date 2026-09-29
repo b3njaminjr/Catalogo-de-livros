@@ -1,14 +1,17 @@
 #ifndef LIVRO_H
 #define LIVRO_H
 
-#define TAM_LIVROS 50
-
+#define MAX 100
 
 typedef struct {
-    char *nome;
+    char nome[50];
     float preco;
 } Livro;
 
+void cadastrarLivro();
+void listarNomeCrescente();
+void listarNomeDecrescente();
+void listarPrecoCrescente();
+void listarPrecoDecrescente();
 
-void menuLivros(void);
-void cadastrarLivros ();
+#endif
